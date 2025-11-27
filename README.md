@@ -88,9 +88,7 @@ Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 
 ## Contact
 
-Votre Nom - [@votretwitter](https://twitter.com/votretwitter) - email@exemple.com
-
-Lien du projet : [https://github.com/votre-utilisateur/parkinsons-detection](https://github.com/votre-utilisateur/parkinsons-detection)
+Lien du projet : https://github.com/makrame5/Parkinson-s_Disease_Detection
 
 ## Remerciements
 
